@@ -13,14 +13,14 @@ This analysis is important because it satisfies these demands, while offering fu
 
 Project Objectives:
 
-Identify the highest spending customers
-Understand customer demographics affecting spending
-Locate which area garners the most customer revenue
-Decipher return rates and factors surrounding them
-Identify the highest-selling products
-Compare the monthly figures to the target numbers
-Forecast company performance
-Display and assess company KPIs
+- Identify the highest spending customers
+- Understand customer demographics affecting spending
+- Locate which area garners the most customer revenue
+- Decipher return rates and factors surrounding them
+- Identify the highest-selling products
+- Compare the monthly figures to the target numbers
+- Forecast company performance
+- Display and assess company KPIs
 
 Data Sources:
 
