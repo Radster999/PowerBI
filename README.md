@@ -26,7 +26,8 @@ Data Sources:
 
 Public dataset of unstructured sales, returns, customer data and more. 
 ![data files](https://github.com/user-attachments/assets/d3a58645-c9e5-4d5e-b2d0-41fcfbf754e3)
-![cleaned data tables](https://github.com/user-attachments/assets/aa294ce9-4570-463d-9f8b-65b2cc6ed1b4)
+![cleaned data example](https://github.com/user-attachments/assets/4f264415-8cea-4247-98d5-8aa263ec9f47)
+
 
 Tools and Technologies: 
 
