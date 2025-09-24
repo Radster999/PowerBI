@@ -60,5 +60,8 @@ Key Insights:
 ![product detail](https://github.com/user-attachments/assets/ccaa7d77-cbc5-4ec0-947c-f995777b3ceb)
 ![executive dashboard](https://github.com/user-attachments/assets/e04dddc4-ba4d-420b-bda6-fd791a377cf3)
 
-*Both the original version and the PDF version are linked to this repository. Thank you for viewing!*
+*The original version, raw data and the PDF version are linked to this repository. 
+Press "view raw" to access the pbix and the csv files.
+
+Thank you for viewing!*
 
